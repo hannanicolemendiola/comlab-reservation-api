@@ -36,6 +36,7 @@ print_response(
     response
 )
 
+# POST
 
 new_reservation = {
     "requester_name": "Alice",
