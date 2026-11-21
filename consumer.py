@@ -21,6 +21,7 @@ response = requests.get(
     f"{BASE_URL}/reservations"
 )
 
+# GET
 print_response(
     "GET ALL RESERVATIONS",
     response
